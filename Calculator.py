@@ -12,5 +12,3 @@ elif Operation == 3:
     print(f"The product of {FirstNumber} and {SecondNumber} is: {FirstNumber * SecondNumber}")
 elif Operation == 4:
     print(f"The quotient of {FirstNumber} and {SecondNumber} is: {FirstNumber / SecondNumber}")
-else:
-    print("Please enter a valid operation.")
